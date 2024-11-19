@@ -1,0 +1,50 @@
+.a {
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.b{
+    font-family: fantasy;
+    color: rgb(252, 248, 0);
+}
+.h2{ color: darkgreen;
+    font-size: 200%;
+}
+.h3{color: pink;
+    font-size: 300%;
+    
+
+}
+body{
+    background-image: url(telletubiessun.png);
+    background-size: 1700px;
+}
+p {
+    color:rgb(255, 167, 3);
+    
+}
+.li1{ color: aqua;
+    list-style: lower-greek;
+
+}
+.li2{
+    color: rgb(57, 212, 255);
+    list-style: circle;
+}
+.li3{
+    color: aqua;
+    list-style-type: square;    
+}
+.ul1{
+    list-style: upper-roman;
+    color: lime;
+}
+.ul2{
+    list-style: upper-roman;
+    color: rgb(121, 8, 102);
+}
+.ul3{
+    list-style: upper-roman;
+    color: mediumvioletred;
+}
